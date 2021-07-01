@@ -1,3 +1,2 @@
 collections:
-#  - name: RedHatOfficial.rhel7_pci_dss
-  - name: ansible.tower
+#  - name: ansible.tower
